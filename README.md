@@ -1,2 +1,0 @@
-# ciberseguridad
-Proyecto Ciberseguridad
